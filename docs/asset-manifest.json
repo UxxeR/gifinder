@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/GIF-finder-web/static/css/main.01c452be.chunk.css",
-    "main.js": "/GIF-finder-web/static/js/main.bcb64bf5.chunk.js",
-    "main.js.map": "/GIF-finder-web/static/js/main.bcb64bf5.chunk.js.map",
-    "runtime-main.js": "/GIF-finder-web/static/js/runtime-main.7b867de7.js",
-    "runtime-main.js.map": "/GIF-finder-web/static/js/runtime-main.7b867de7.js.map",
-    "static/js/2.8a5790fd.chunk.js": "/GIF-finder-web/static/js/2.8a5790fd.chunk.js",
-    "static/js/2.8a5790fd.chunk.js.map": "/GIF-finder-web/static/js/2.8a5790fd.chunk.js.map",
-    "index.html": "/GIF-finder-web/index.html",
-    "static/css/main.01c452be.chunk.css.map": "/GIF-finder-web/static/css/main.01c452be.chunk.css.map",
-    "static/js/2.8a5790fd.chunk.js.LICENSE.txt": "/GIF-finder-web/static/js/2.8a5790fd.chunk.js.LICENSE.txt"
+    "main.css": "/GIF-finder-web/docs/static/css/main.01c452be.chunk.css",
+    "main.js": "/GIF-finder-web/docs/static/js/main.bcb64bf5.chunk.js",
+    "main.js.map": "/GIF-finder-web/docs/static/js/main.bcb64bf5.chunk.js.map",
+    "runtime-main.js": "/GIF-finder-web/docs/static/js/runtime-main.19184a15.js",
+    "runtime-main.js.map": "/GIF-finder-web/docs/static/js/runtime-main.19184a15.js.map",
+    "static/js/2.8a5790fd.chunk.js": "/GIF-finder-web/docs/static/js/2.8a5790fd.chunk.js",
+    "static/js/2.8a5790fd.chunk.js.map": "/GIF-finder-web/docs/static/js/2.8a5790fd.chunk.js.map",
+    "index.html": "/GIF-finder-web/docs/index.html",
+    "static/css/main.01c452be.chunk.css.map": "/GIF-finder-web/docs/static/css/main.01c452be.chunk.css.map",
+    "static/js/2.8a5790fd.chunk.js.LICENSE.txt": "/GIF-finder-web/docs/static/js/2.8a5790fd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b867de7.js",
+    "static/js/runtime-main.19184a15.js",
     "static/js/2.8a5790fd.chunk.js",
     "static/css/main.01c452be.chunk.css",
     "static/js/main.bcb64bf5.chunk.js"
