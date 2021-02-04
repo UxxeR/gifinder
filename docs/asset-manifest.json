@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/GIF-finder-web/docs/static/css/main.01c452be.chunk.css",
-    "main.js": "/GIF-finder-web/docs/static/js/main.bcb64bf5.chunk.js",
-    "main.js.map": "/GIF-finder-web/docs/static/js/main.bcb64bf5.chunk.js.map",
-    "runtime-main.js": "/GIF-finder-web/docs/static/js/runtime-main.19184a15.js",
-    "runtime-main.js.map": "/GIF-finder-web/docs/static/js/runtime-main.19184a15.js.map",
-    "static/js/2.8a5790fd.chunk.js": "/GIF-finder-web/docs/static/js/2.8a5790fd.chunk.js",
-    "static/js/2.8a5790fd.chunk.js.map": "/GIF-finder-web/docs/static/js/2.8a5790fd.chunk.js.map",
-    "index.html": "/GIF-finder-web/docs/index.html",
-    "static/css/main.01c452be.chunk.css.map": "/GIF-finder-web/docs/static/css/main.01c452be.chunk.css.map",
-    "static/js/2.8a5790fd.chunk.js.LICENSE.txt": "/GIF-finder-web/docs/static/js/2.8a5790fd.chunk.js.LICENSE.txt"
+    "main.css": "/gifinder/static/css/main.01c452be.chunk.css",
+    "main.js": "/gifinder/static/js/main.8c30ed88.chunk.js",
+    "main.js.map": "/gifinder/static/js/main.8c30ed88.chunk.js.map",
+    "runtime-main.js": "/gifinder/static/js/runtime-main.84eed489.js",
+    "runtime-main.js.map": "/gifinder/static/js/runtime-main.84eed489.js.map",
+    "static/js/2.0db6f62f.chunk.js": "/gifinder/static/js/2.0db6f62f.chunk.js",
+    "static/js/2.0db6f62f.chunk.js.map": "/gifinder/static/js/2.0db6f62f.chunk.js.map",
+    "index.html": "/gifinder/index.html",
+    "static/css/main.01c452be.chunk.css.map": "/gifinder/static/css/main.01c452be.chunk.css.map",
+    "static/js/2.0db6f62f.chunk.js.LICENSE.txt": "/gifinder/static/js/2.0db6f62f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.19184a15.js",
-    "static/js/2.8a5790fd.chunk.js",
+    "static/js/runtime-main.84eed489.js",
+    "static/js/2.0db6f62f.chunk.js",
     "static/css/main.01c452be.chunk.css",
-    "static/js/main.bcb64bf5.chunk.js"
+    "static/js/main.8c30ed88.chunk.js"
   ]
 }
